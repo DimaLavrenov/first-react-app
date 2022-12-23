@@ -1,0 +1,16 @@
+{
+  "blogs": [
+    {
+      "title": "About shop",
+      "body": "Hi. Today I will tell about my shop!",
+      "author": "Yoshi",
+      "id": 1
+    },
+    {
+      "title": "My First Article",
+      "body": "Hello. My name is Dima",
+      "author": "Dima",
+      "id": 2
+    }
+  ]
+}
